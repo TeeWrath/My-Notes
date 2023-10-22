@@ -34,7 +34,6 @@ I'm constantly adding new content, so be sure to [watch](https://github.com/TeeW
 
 If you'd like to contribute to this repository or suggest improvements, feel free to open an issue or submit a pull request. Your contributions are highly appreciated, and they will help this repository grow and become an even more valuable resource for the tech community.
 
-For guidelines on contributing, please check the [CONTRIBUTING.md](/CONTRIBUTING.md) file.
 
 ## Feedback and Suggestions
 
