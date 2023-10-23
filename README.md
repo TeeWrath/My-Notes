@@ -1,4 +1,4 @@
-# Tech Notes Repository
+# My Notes Repository
 
 Welcome to my Tech Notes Repository! 🚀
 
